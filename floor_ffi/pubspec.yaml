@@ -7,7 +7,7 @@ homepage: https://floor.codes
 publish_to: none
 
 environment:
-  sdk: ^3.8.1
+  sdk: ^3.10.1
 
 dependencies:
   floor_annotation:
@@ -16,4 +16,4 @@ dependencies:
     path: ../floor_common/
   meta:
   path: ^1.9.1
-  sqflite_common_ffi: ^2.3.3
+  sqflite_common_ffi: ^2.4.0

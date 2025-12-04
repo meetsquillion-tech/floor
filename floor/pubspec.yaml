@@ -9,7 +9,7 @@ issue_tracker: https://github.com/pinchbv/floor/issues
 publish_to: none
 
 environment:
-  sdk: ^3.8.1
+  sdk: ^3.10.1
 
 dependencies:
   collection: ^1.19.1
@@ -32,5 +32,5 @@ dev_dependencies:
     path: ../floor_generator
   flutter_test:
     sdk: flutter
-  matcher: ^0.12.18
+  matcher: ^0.12.17
   mockito: ^5.6.1

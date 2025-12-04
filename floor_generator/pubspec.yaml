@@ -9,7 +9,7 @@ issue_tracker: https://github.com/pinchbv/floor/issues
 publish_to: none
 
 environment:
-  sdk: '>=2.12.6 <4.0.0'
+  sdk: ^3.8.1
 
 dependencies:
   analyzer: ^8.1.1
